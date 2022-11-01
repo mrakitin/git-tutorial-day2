@@ -4,4 +4,4 @@ def say_hello(say=False, msg="Hello, User!"):
 
 
 if __name__ == "__main__":
-    say_hello(msg="Test")
+    say_hello(say=True, msg="Test")
