@@ -1,4 +1,4 @@
-def say_hello(say=False, msg=""):
+def say_hello(say=False, msg="Hello, User!"):
     if say:
         print(f"{msg = }")
 
